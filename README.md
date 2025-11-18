@@ -11,7 +11,7 @@
 3. **Location premium**: US roles pay 35% more than international
 4. **Title matters less than expected**: Senior Data Analyst > Junior ML Engineer
 
-[See detailed analysis →](salary_analysis.ipynb)
+[See detailed analysis →](salary-analysis.ipynb)
 
 ## 📊 Methodology
 
